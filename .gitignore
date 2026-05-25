@@ -1,0 +1,26 @@
+# --- Laravel ---
+/laravel/vendor/
+/laravel/node_modules/
+/laravel/.env
+/laravel/.env.backup
+/laravel/storage/*.key
+/laravel/storage/framework/cache/*
+/laravel/storage/framework/sessions/*
+/laravel/storage/framework/views/*
+/laravel/bootstrap/cache/*
+/laravel/.phpunit.result.cache
+/laravel/.phpunit.cache/
+
+# --- Bitrix ---
+/bitrix/bitrix/
+/bitrix/upload/
+/bitrix/local/php_interface/.settings.php
+
+# --- IDE ---
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
